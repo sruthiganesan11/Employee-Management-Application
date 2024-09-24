@@ -21,12 +21,14 @@ nav .title {
 
 nav ul {
   display: flex;
+  list-style: none;
 }
 
 nav ul li a {
   display: block;
   text-decoration: none;
   color: white;
+  list-style: none;
   padding: 0.8rem;
   margin: 0 0.5rem;
   border-radius: 0.5rem;
